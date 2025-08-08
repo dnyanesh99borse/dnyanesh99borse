@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **App Development,React,Kotlin,java**
+- 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND CYBER SECURITY**
 
-- 💬 Ask me about **html,css,javascript,c++,python**
+- 💬 Ask me about **JAVA,HTML,CSS,MEARN**
 
 - ⚡ Fun fact **I Am a Billionaire**
 
