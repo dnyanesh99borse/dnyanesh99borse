@@ -1,40 +1,253 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Dnyaneshwar Borse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
+<!-- Dynamic Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dnyaneshwar%20Borse&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 
-<img 
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-  style="border-radius: 86px;">
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Dnyaneshwar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%9F;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
+<br/><br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Profile Views & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=dnyanesh99borse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/dnyanesh99borse?tab=followers">
+  <img src="https://img.shields.io/github/followers/dnyanesh99borse?label=Followers&style=for-the-badge&color=236ad3" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-brightgreen?style=for-the-badge" />
 
-- 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND CYBER SECURITY**
+</div>
 
-- 💬 Ask me about **JAVA,HTML,CSS,MEARN**
+---
 
-- ⚡ Fun fact **I Am a Billionaire**
+<!-- About Me Section -->
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius:16px;" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dnyaneshwar borse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dnyaneshwar borse" height="30" width="40" /></a>
-<a href="https://fb.com/eagleo fact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eagleo fact" height="30" width="40" /></a>
-<a href="https://instagram.com/m_lucifer_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_lucifer_99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eagleo fact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eagleo fact" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```yaml
+name: Dnyaneshwar Borse
+location: India 🇮🇳
+role: Full Stack Developer
+learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cybersecurity
+stack:
+  frontend: [HTML, CSS, JavaScript, React]
+  backend:  [Node.js, Express, Java]
+  database: [MongoDB, SQL]
+  tools:    [Git, Postman, VS Code]
+currently_building: "Something awesome 🔥"
+fun_fact: "I Am a Billionaire 💰 (in dreams & code!)"
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnyanesh99borse&show_icons=true&locale=en&layout=compact" alt="dnyanesh99borse" /></p>
+- 🔭 Working on **Full Stack & AI-powered projects**
+- 🌱 Currently mastering **AI, Machine Learning & Cyber Security**
+- 💬 Ask me about **Java, HTML, CSS, MERN Stack**
+- 🏆 **Postman API Fundamentals Student Expert** — Certified Nov 2024
+- ⚡ Fun fact: **I Am a Billionaire** 😄
+- 📫 Reach me: **borsednyanesh99@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyanesh99borse&show_icons=true&locale=en" alt="dnyanesh99borse" /></p>
+<br clear="both"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh99borse&" alt="dnyanesh99borse" /></p>
+---
 
-<p>gsooc-extd 2024  Postman Student Expert certification earned:
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/mk5PSlwfSG2cIG_TqYJH4w?identity__email=borsednyanesh99%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/mk5PSlwfSG2cIG_TqYJH4w/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>7 Nov 2024</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fmk5PSlwfSG2cIG_TqYJH4w%3Fidentity__email%3Dborsednyanesh99%2540gmail.com&amp;identity__email=borsednyanesh99%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote></p>
+<!-- Animated Snake Contribution Graph -->
+<div align="center">
+
+### 🐍 My Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnyanesh99borse/dnyanesh99borse/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnyanesh99borse/dnyanesh99borse/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dnyanesh99borse/dnyanesh99borse/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚠️ **Setup Tip:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo:
+> Create `.github/workflows/snake.yml` — see setup section below ↓
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🤖 AI & ML (Currently Learning)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+### 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnyanesh99borse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh99borse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh99borse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+### 📈 Contribution Activity
+
+[![Dnyaneshwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnyanesh99borse&theme=tokyo-night&hide_border=true&area=true&custom_title=Dnyaneshwar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- Trophies -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dnyanesh99borse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- Certifications -->
+<div align="center">
+
+### 🎖️ Certifications & Achievements
+
+| Badge | Certification | Issuer | Date |
+|:---:|:---|:---:|:---:|
+| 🟠 | **Postman API Fundamentals Student Expert** | Postman | Nov 2024 |
+| 🌐 | **GSSoC Extended 2024 Contributor** | GirlScript | 2024 |
+
+<a href="https://api.badgr.io/public/assertions/mk5PSlwfSG2cIG_TqYJH4w?identity__email=borsednyanesh99%40gmail.com">
+  <img src="https://api.badgr.io/public/assertions/mk5PSlwfSG2cIG_TqYJH4w/image" width="120" alt="Postman Badge" style="border-radius:8px"/>
+</a>
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyaneshwar-borse)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/m_lucifer_99)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/eagleofact)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/eagleofact)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dnyanesh99borse)
+
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+
+### 💭 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- Snake Workflow Setup Section -->
+<details>
+<summary>🐍 <strong>How to Enable the Snake Animation (Click to expand)</strong></summary>
+
+<br/>
+
+Create the file `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After adding this, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time!
+
+</details>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  <i>⭐ Star my repos if you find them useful! Let's build something great together 🚀</i>
+</div>
